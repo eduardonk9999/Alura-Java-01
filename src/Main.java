@@ -4,8 +4,11 @@ public class Main {
         System.out.println("Filme: Top Gun: Maverick");
 
         int anoDeLancamento = 2022;
-        System.out.printLn("Ano de lançamento: " + anoDeLancamento);
+        System.out.println("Ano de lançamento: " + anoDeLancamento);
         boolean incluidoNoPlano = true;
         double notaDoFilme = 8.1;
+
+        double media = (9.8 + 6.3 + 8.0) / 3;
+        System.out.println(media);
     }
 }
