@@ -8,7 +8,18 @@ public class Main {
         boolean incluidoNoPlano = true;
         double notaDoFilme = 8.1;
 
+<<<<<<< HEAD
         double media = (9.8 + 6.3 + 8.0) / 3;
         System.out.println(media);
+=======
+        double media = 9.8 + 6.3 + 8.0 / 3;
+        System.out.println(media)
+
+        int classificacao
+        classificacao = (int) (media / 2);
+        System.out.println(classificacao)
+        //
+
+>>>>>>> 9aa8e1a (conversao)
     }
 }
