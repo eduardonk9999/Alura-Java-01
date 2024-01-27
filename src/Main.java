@@ -16,7 +16,7 @@ public class Main {
         int classificacao
         classificacao = (int) (media / 2);
         System.out.println(classificacao)
-        //
+        //aula 3
 
     }
 }
