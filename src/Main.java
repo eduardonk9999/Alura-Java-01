@@ -10,12 +10,12 @@ public class Main {
 
         double media = (9.8 + 6.3 + 8.0) / 3;
         System.out.println(media);
-        double media = 9.8 + 6.3 + 8.0 / 3;
-        System.out.println(media)
+//        double media = 9.8 + 6.3 + 8.0 / 3;
+        System.out.println(media);
 
-        int classificacao
+        int classificacao;
         classificacao = (int) (media / 2);
-        System.out.println(classificacao)
+        System.out.println(classificacao);
         //aula 3
 
     }
